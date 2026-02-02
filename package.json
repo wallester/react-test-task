@@ -6,7 +6,7 @@
     "classnames": "^2.5.1",
     "clsx": "^2.1.1",
     "cropperjs": "^2.1.0",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "rc-dialog": "^10.0.0",
     "rc-dropdown": "^4.2.1",
     "rc-menu": "^9.16.1",
