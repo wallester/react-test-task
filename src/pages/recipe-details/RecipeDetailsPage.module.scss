@@ -1,0 +1,62 @@
+.root {}
+
+.topbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 12px;
+}
+
+.content {}
+
+.h1 {
+  margin: 0 0 10px 0;
+}
+
+.hero {
+  width: 100%;
+  max-width: 720px;
+  height: 240px;
+  object-fit: cover;
+  border-radius: 12px;
+  border: 1px solid rgba(0, 0, 0, 0.12);
+}
+
+.pre {
+  margin-top: 12px;
+  padding: 12px;
+  border-radius: 12px;
+  border: 1px solid rgba(0, 0, 0, 0.12);
+  max-width: 720px;
+  overflow: auto;
+  font-size: 12px;
+}
+
+.dialogBody {
+  padding: 4px 0;
+}
+
+.dialogHint {
+  opacity: 0.75;
+  margin-bottom: 10px;
+}
+
+.dialogGrid {
+  display: grid;
+  grid-template-columns: 140px 1fr;
+  gap: 12px;
+  align-items: start;
+}
+
+.dialogImage {
+  width: 140px;
+  height: 140px;
+  object-fit: cover;
+  border-radius: 10px;
+  border: 1px solid rgba(0, 0, 0, 0.12);
+}
+
+.todo {
+  margin-top: 8px;
+  opacity: 0.75;
+}

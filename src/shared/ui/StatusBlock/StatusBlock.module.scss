@@ -1,0 +1,25 @@
+.root {
+  border: 1px solid rgba(0, 0, 0, 0.12);
+  border-radius: 10px;
+  padding: 14px;
+  max-width: 720px;
+}
+
+.title {
+  font-weight: 600;
+  margin-bottom: 6px;
+}
+
+.desc {
+  opacity: 0.8;
+}
+
+.action {
+  margin-top: 10px;
+}
+
+.loading {}
+.error {
+  border-color: rgba(200, 0, 0, 0.35);
+}
+.empty {}

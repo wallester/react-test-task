@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.11.2",
+    "@rsbuild/plugin-react": "^1.4.3",
+    "axios": "^1.13.2",
+    "classnames": "^2.5.1",
+    "clsx": "^2.1.1",
+    "cropperjs": "^2.1.0",
+    "lodash": "^4.17.21",
+    "rc-dialog": "^10.0.0",
+    "rc-dropdown": "^4.2.1",
+    "rc-menu": "^9.16.1",
+    "react": "^19.2.3",
+    "react-cropper": "^2.3.3",
+    "react-dom": "^19.2.3",
+    "react-redux": "^9.2.0",
+    "react-router-dom": "^5.3.4"
+  },
+  "scripts": {
+    "dev": "rsbuild dev",
+    "build": "rsbuild build",
+    "preview": "rsbuild preview"
+  },
+  "devDependencies": {
+    "@rsbuild/core": "^1.7.2",
+    "@rsbuild/plugin-sass": "^1.4.1",
+    "@types/react": "^19.2.8"
+  }
+}
